@@ -1,0 +1,12 @@
+INSERT INTO client (id, name, date_of_birth, address, contact_info)
+VALUES
+  (1, 'John Doe', '1990-01-01', '123 Main St, Anytown, USA', '555-1234'),
+  (2, 'Jane Smith', '1992-02-02', '456 Oak Ave, Anytown, USA', '555-5678'),
+  (3, 'Bob Johnson', '1985-03-03', '789 Elm St, Anytown, USA', '555-9012'),
+  (4, 'Sarah Lee', '1978-04-04', '321 Maple Rd, Anytown, USA', '555-3456'),
+  (5, 'Tom Jackson', '1965-05-05', '654 Cedar Blvd, Anytown, USA', '555-7890'),
+  (6, 'Emily Chen', '1979-06-06', '987 Pine St, Anytown, USA', '555-2345'),
+  (7, 'Michael Brown', '1988-07-07', '555 Cherry Ln, Anytown, USA', '555-6789'),
+  (8, 'David Kim', '1994-08-08', '444 Birch Rd, Anytown, USA', '555-1234'),
+  (9, 'Linda Rodriguez', '1969-09-09', '777 Spruce St, Anytown, USA', '555-5678'),
+  (10, 'Jason Lee', '1976-10-10', '888 Pine Ave, Anytown, USA', '555-9012');
